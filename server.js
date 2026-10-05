@@ -23,7 +23,7 @@ const GMAIL_USER = process.env.GMAIL_USER || "info.sdtechsolutions@gmail.com";
 const GMAIL_PASS = process.env.GMAIL_APP_PASSWORD || "zjbgimuobirnomro";
 const COMPANY_NAME = process.env.COMPANY_NAME || "SD Tech Solutions";
 const PORT = process.env.PORT || 5000;
-const SERVER_URL = process.env.SERVER_URL || "https://sdtech-server.onrender.com";
+const SERVER_URL = process.env.SERVER_URL || "https://sdtech-class-server.onrender.com";
 const FRONTEND_URL = process.env.FRONTEND_URL || "https://class.sdtechsolutionsorg.com/"; // Change this
 
 // ============================================================
